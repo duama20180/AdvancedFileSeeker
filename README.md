@@ -2,7 +2,6 @@
 
 **AdvancedFileSeeker** is a powerful tool for advanced file search on Windows systems using both regular expressions and more traditional methods.
 
-![logo](./AdvancedFileSeeker/logo.ico)
 
 ## Key features
 
@@ -13,7 +12,9 @@
 - Easy-to-use Windows Forms GUI
 - Help and program information windows
 
+
 ## Screenshot
+![AdvancedFileSeeker screenshot](https://github.com/user-attachments/assets/a448912f-bc88-426a-8e05-de1453bf76f6)
 
 
 ## How to run
