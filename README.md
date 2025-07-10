@@ -29,5 +29,3 @@
 1. Open `AdvancedFileSeeker.sln` in Visual Studio
 2. Build the solution (`Build > Build Solution`)
 3. Run (`Debug > Start Without Debugging` or `Ctrl + F5`)
-
-Translated with DeepL.com (free version)
